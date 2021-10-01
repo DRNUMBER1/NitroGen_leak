@@ -72,9 +72,9 @@ checkCode =  function (code) {
     });
 }
 logger.info(`NitrogenX - Premium`);
-logger.info(`\n\n\n\n Thank you for buying Nitrogen! - \n\n\n\n\n\n\n`)
-logger.info(`Copyright (c) @saintic`)
-logger.info(` Version REVAMP`);
+logger.info(`\n\n\n\n Thank you for buying Nitrogen! fuck you saitic ~RECIORRRRRRRRRRRR - \n\n\n\n\n\n\n`)
+logger.info(`Copyright (c) @saintic  nah u aint getting copy right for this skid shit`)
+logger.info(` Version REVAMP //ultra skid XD`);
 
 
 checkCode(getGiftCode());
